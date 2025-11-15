@@ -65,8 +65,6 @@
 
 ### 📫 Como me encontrar
 
-**Substitua pelos seus links!**
-
 <p align="left">
   <a href="https://www.linkedin.com/in/iuri-paiva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:iuricorporativo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
